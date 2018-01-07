@@ -1,0 +1,5 @@
+
+build-*64bit-Debug
+*.pro.user
+*~
+
